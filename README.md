@@ -1,5 +1,5 @@
 # Sentiment-Analysis-Airlines
-The following code uses the airline tweets dataset from the open source Kaggle and preprocesses it.  The objective of the work is to process the data using Natural language tool kit and  Regular expression libraries as well as develop a logistics regression model and decision tree model. The code required knowledge of data science as well as basic machine learning to achieve the goals.
+The objective of the work is to process the data using Natural language tool kit and  Regular expression libraries as well as develop a logistics regression model and decision tree model. The code required knowledge of data science as well as basic machine learning to achieve the goals.
 
 ## Data
 The following dataset has 14640 tweets containg information about the place , time, persons name as well as the text of the tweet as the data samples which are trained to predict the mood/ sentiment of the tweeter. In total, we have 14 features and 14640 training tweets.
